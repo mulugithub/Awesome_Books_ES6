@@ -1,16 +1,6 @@
- const dateTime = () => {
-    const date = new Date();
-    const options = {
-      month: 'long',
-      day: 'numeric',
-      year: 'numeric',
-      weekday: 'short',
-      hour: 'numeric',
-      minute: 'numeric',
-      second: 'numeric',
-      hour24: true,
-    };
-    return date.toLocaleString('en-US', options);
-  };
-  
+// import DateTime module from luxon
+import { DateTime } from '../node_modules/luxon/src/luxon.js';
+// dateTime arrow function which return current date and time
+ const dateTime = () => DateTime.local().toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
+  // export dateTime module
   export default dateTime;

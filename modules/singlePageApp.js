@@ -5,7 +5,6 @@ import {
 
 // Add click event listeners to the navigation links
 const singlePageApp = () => {navLinks.forEach((link) => {
-  console.log('hi');
     link.addEventListener('click', (event) => {
       // Prevent the default link behavior
       event.preventDefault();

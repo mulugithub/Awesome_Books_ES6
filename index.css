@@ -43,6 +43,10 @@ nav a:focus {
   cursor: pointer;
 }
 
+span {
+  color: #000;
+}
+
 main {
   display: flex;
   flex-direction: column;
