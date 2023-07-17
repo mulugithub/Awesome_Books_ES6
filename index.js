@@ -1,6 +1,6 @@
-import Books, {bookTitle, bookAuthor } from "./modules/Books.js";
-import myTime from "./modules/renderDateTime.js";
-import singlePageApp from "./modules/singlePageApp.js";
+import Books, { bookTitle, bookAuthor } from './modules/Books.js';
+import myTime from './modules/renderDateTime.js';
+import singlePageApp from './modules/singlePageApp.js';
 
 // Add event listener to click or submit button
 const addButton = document.getElementById('add-btn');
