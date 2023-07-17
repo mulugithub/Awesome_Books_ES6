@@ -22,15 +22,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# 📖 [Awesome Books with ES6] <a name="about-project"></a>
 
-**[Awesome Books]** This project was created to showcase my HTML, CSS, and JavaScript skills while working on the module two week one project. HTML, CSS, and JavaScript were used to build the project.
+**[Awesome Books]** This project was created to showcase my HTML, CSS, JavaScript skills, and using ES6 modules to clean and maintanble codebase. HTML, CSS, and JavaScript were used to build the project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> This awesome book project bulit with HTML , CSS and Javascript
+> This awesome book project with ES6 bulit with HTML , CSS and Javascript
 
 <!-- Features -->
 
@@ -46,6 +46,11 @@
 - **[Prevent empty record]**
 - **[Show error message after submit button]**
 - **[Show success message after submit button]**
+- **[Show success message after submit button]**
+- **[Refactor functions to arrow functions.]**
+- **[Use let and const]**
+- **[Display the current date below the navigation bar.]**
+- **[Apply ES6 modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +60,7 @@
 
 > Click the live demo to access the application.
 
-- [Live Demo Link](https://mulugithub.github.io/Awesome_Books/)
+- [Live Demo Link](https://mulugithub.github.io/Awesome_Books_ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,12 +77,12 @@
 ### Setup
 
 Clone this repository to your desired folder:
-git clone git@github.com:mulugithub/module-one-capstone.git
+git clone git@github.com:mulugithub/Awesome_Books_ES6.git
 
 ### Usage
 
 To run the project, open the project using a live server from VS code editor.
-cd module-one-capstone
+cd Awesome_Books_ES6
 code .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,10 +98,6 @@ code .
 - GitHub: [@mulugithub](https://github.com/mulugithub)
 - LinkedIn: [@muluken-zemed](https://www.linkedin.com/in/muluken-zemed-2b6a38167/)
 
-👤 **Author2**
-- GitHub: [Anyars Yussif](https://github.com/anyars-encarta) 
-- LinkedIn: [Anyars Yussif](https://www.linkedin.com/in/anyars-yussif-1a179769/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -105,7 +106,7 @@ code .
 
 > The following features will add to the project using flex and grid layout.
 
-- [ ] **[Add menu link at header]**
+- [ ] **[Add mobile menu or hamburger icon at header]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTRIBUTING -->
